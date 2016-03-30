@@ -1,0 +1,28 @@
+name: Teacheq
+favicon: null
+layout_spectrum: 0.15356121421791613
+typography_spectrum: 0.7605289674829692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.37226723064668477
+  lightness: 0.9383602340240031
+  saturation: 0.6339086047373712
+  rhythmicContrast: 0.40075974841602147
+purpose: []
